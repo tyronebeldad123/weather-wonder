@@ -36,10 +36,7 @@ It allows users to search for cities worldwide and view current weather conditio
 
 ## Screenshots
 
-*(Add your own screenshot here, e.g., search bar + weather card + search history)*  
-
-![WeatherWonder Screenshot](link-to-your-screenshot.png)
-
+![alt text](image.png)
 ---
 
 ## Installation & Running Locally
